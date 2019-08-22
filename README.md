@@ -1,4 +1,4 @@
-# game-engine
+# Pong-vue
 
 ## Project setup
 ```
